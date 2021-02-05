@@ -1,3 +1,12 @@
-# jubilant-waffle
-每天一个前端知识
-[错误捕获](https://github.com/chechebecomestrong/jubilant-waffle/blob/main/20210205.md)
+---
+description: 目录
+---
+
+# MENU
+
+> **每天一个前端知识**
+
+{% page-ref page="2021-02-05.md" %}
+
+
+
