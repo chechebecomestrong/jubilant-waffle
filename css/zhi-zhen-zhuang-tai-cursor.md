@@ -14,3 +14,9 @@ description: 在移动端飞速发展的时代，来一波对PC时期指针的�
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+<iframe height="265" style="width: 100%;" scrolling="no" title="css cursor" src="https://codepen.io/chechebecomestrong/embed/NWbgNNZ?height=265&theme-id=light&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/chechebecomestrong/pen/NWbgNNZ'>css cursor</a> by Yully Che
+  (<a href='https://codepen.io/chechebecomestrong'>@chechebecomestrong</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
