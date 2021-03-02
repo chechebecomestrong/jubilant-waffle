@@ -47,7 +47,6 @@ Event\(\)
 | Event.explicitOriginalTarget | 只读 | Mozilla专有属性 | 事件明确的原始目标 |
 | Event.originalTarget | 只读 | Mozilla专有属性 | 重设目标前的事件原始目标 |
 | Event.returnValue |  |  | 旧版IE引入的一个非标准历史属性，为保证依赖属性的网页正常运作，此属性最终被收入规范。可用Event.preventDefault\(\)与Event.defaultPrevented代替，但由于已进入规范，也可使用此属性 |
-| Event.srcElement | 只读 | 非标准属性 | 旧版IE对Event.target的非标准别称。处于兼容原因，一些其他浏览器也支持此别称 |
 | Event.target | 只读 |  | 对事件原始目标的引用，这里的原始目标指最初派发（dispatch）事件时指定的目标 |
 | Event.timeStamp | 只读 | 毫秒 | 事件创建的时间戳（精度为毫秒）。按照规范，这个时间戳是Unix纪元起经过的毫秒数，但实际上，在不同的浏览器中，对此时间戳的定义也有所不同。另外，规范整将其修改为DOMHighResTimeStamp（一个double类型，用于存储毫秒级的时间值。这种类型可以用来描述离散的时间点或者一段时间） |
 | Event.type | 只读 |  | 事件的类型，不区分大小写 |

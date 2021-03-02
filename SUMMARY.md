@@ -9,7 +9,7 @@
 * [异步函数](js/2021-02-08.md)
 * [children与childNodes](js/2020-02-10.md)
 * [Event简述](js/event-jian-shu.md)
-* [Event废弃的属性和方法](js/event-fei-qi-de-shu-xing-he-fang-fa.md)
+* [Event非标准的属性和方法](js/event-fei-qi-de-shu-xing-he-fang-fa.md)
 
 ## CSS
 
